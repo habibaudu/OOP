@@ -1,0 +1,17 @@
+{
+  "name": "vehicleclass",
+  "version": "1.0.0",
+  "description": "\"modeling a vehicle\"",
+  "main": "spec.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Habib Audu",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  },
+  "dependencies":{
+   "jasmine":"*"
+  }
+}
